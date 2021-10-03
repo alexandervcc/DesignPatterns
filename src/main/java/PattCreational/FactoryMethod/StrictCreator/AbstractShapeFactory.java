@@ -1,4 +1,4 @@
-package PattCreational.FactoryMethod;
+package PattCreational.FactoryMethod.StrictCreator;
 
 public abstract class AbstractShapeFactory {
     protected abstract Shape factoryMethod();

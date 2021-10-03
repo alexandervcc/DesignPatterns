@@ -1,4 +1,4 @@
-package PattCreational.FactoryMethod;
+package PattCreational.FactoryMethod.StrictCreator;
 
 //ProductInterface Shape
 interface Shape{

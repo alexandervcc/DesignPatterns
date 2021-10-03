@@ -1,4 +1,4 @@
-package PattCreational.FactoryMethod;
+package PattCreational.FactoryMethod.StrictCreator;
 
 public class Client {
     public static void main(String[] args) {
