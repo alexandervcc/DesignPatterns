@@ -2,7 +2,7 @@ package Principles.DepInjection;
 
 public class DepInjection {
 }
-
+/*
 interface Service{
     void write(String message);
 }
@@ -32,3 +32,4 @@ class Client{
         Client c=new Client();
     }
 }
+*/
